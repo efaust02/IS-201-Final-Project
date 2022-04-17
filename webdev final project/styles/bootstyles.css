@@ -1,0 +1,43 @@
+.common {
+    background-color: #ff00f2;
+    position: absolute;
+    align-items: center;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+.tablo{
+    top: 90px;
+    bottom: 90px;
+}
+
+.footer {
+    background-color: #1acb9c;
+    position: fixed;
+    height: 100px;
+    Bottom: 0px;
+    left: 0px;
+    right: 0px;
+    font-size: 30px;
+
+}
+
+.test {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btext {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.htext {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(247, 235, 238);
+    font-size: 45px;
+}

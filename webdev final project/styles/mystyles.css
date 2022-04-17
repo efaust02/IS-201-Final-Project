@@ -1,0 +1,19 @@
+.ol {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+}
+
+.italic {
+    font-style: italic;
+    font-size: 40px;
+}
+
+.meow {
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+}
